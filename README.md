@@ -255,3 +255,5 @@ Para ejecutar esta parte del proyecto, sigue estos pasos:
       - Para iniciar sesión: `http://localhost/tu-repositorio/login.php`
       - Para acceder al dashboard (después de iniciar sesión correctamente): `http://localhost/tu-repositorio/dashboard.php`
 
+[Parte 4](https://github.com/Aljure-bit/prueba_tecnica_pt_4)
+
