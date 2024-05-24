@@ -1,0 +1,4 @@
+2024-05-22 19:27:22 - Copia de seguridad creada correctamente en: C:/xampp/htdocs/prueba_php/backups/backup_2024-05-22_19-27-21.sql
+2024-05-22 20:39:14 - Copia de seguridad creada correctamente en: C:/xampp/htdocs/prueba_php/backups/backup_2024-05-22_20-39-14.sql
+2024-05-22 21:39:09 - Copia de seguridad creada correctamente en: C:/xampp/htdocs/prueba_php/backups/backup_2024-05-22_21-39-09.sql
+2024-05-22 21:40:22 - Copia de seguridad creada correctamente en: C:/xampp/htdocs/prueba_php/backups/backup_2024-05-22_21-40-21.sql
